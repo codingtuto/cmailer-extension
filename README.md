@@ -19,6 +19,23 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 2. **Navigateur Microsoft Edge** - Si vous n'avez pas déjà Microsoft Edge, téléchargez et installez-le à partir du [site officiel de Microsoft Edge](https://www.microsoft.com/en-us/edge).
 
+## Télécharger l'extension
+
+Vous pouvez télécharger l'extension au format fichier ZIP directement à partir du dépôt GitHub en suivant les étapes ci-dessous :
+
+1. Accédez au lien de téléchargement : [Télécharger l'extension](https://github.com/codingtuto/cmailer-extension/archive/refs/tags/Extension.zip)
+
+2. Cliquez sur le lien pour télécharger le fichier ZIP contenant l'extension.
+
+3. Une fois le téléchargement terminé, localisez le fichier ZIP dans votre système.
+
+4. Décompressez le fichier ZIP pour obtenir le dossier contenant l'extension.
+
+Maintenant, vous avez le dossier de l'extension prêt à être chargé dans votre navigateur Google Chrome et Microsoft Edge en suivant les instructions fournies dans les sections précédentes de ce README.
+
+**Note :** Si vous préférez cloner le dépôt, vous pouvez également le faire en utilisant la commande `git clone https://github.com/codingtuto/cmailer-extension.git` dans votre terminal ou en utilisant les options de clonage disponibles sur GitHub.
+
+
 ## Étapes pour exécuter l'extension dans Google Chrome :
 
 1. Clonez ce dépôt sur votre ordinateur ou téléchargez-le sous forme de fichier ZIP et extrayez-le.
