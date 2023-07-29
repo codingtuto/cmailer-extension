@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "CMAILER",
+  "version": "1.0",
+  "description": "Extension de navigateur utilisant CMAILERAPI",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "https://cmailerapi.codingteam.tech/send-email"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
