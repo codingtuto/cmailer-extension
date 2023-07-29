@@ -6,9 +6,6 @@
   "action": {
     "default_popup": "popup.html"
   },
-  "permissions": [
-    "https://cmailerapi.codingteam.tech/send-email"
-  ],
   "background": {
     "service_worker": "background.js"
   },
